@@ -34,7 +34,7 @@ Clone the repo, using:
 
 Compiling is as simple as typing the following in the root repository directory:
 ```
-emcmake -B build
+emcmake cmake -B build
 cmake --build build --config release
 ```
 
